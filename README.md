@@ -1,10 +1,13 @@
 🏥 Hospital Management System (HMS)
+<br>
 <p align="center"> <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" /> </p>
 
+<br>
 A Facility Management System built in PHP that focuses on handling medical records and streamlining hospital operations.
 
 This system provides features for managing patients, staff, reports, pharmacy inventories, and lab records — all within a secure and user-friendly environment.
 
+<br>
 ✨ Features
 
 👨‍⚕️ Doctor/Employee Panel
@@ -17,6 +20,7 @@ View and update inventories
 
 Access detailed patient information and medical history
 
+<br>
 🛠 Admin Panel
 
 Manage all personnel and patient data
@@ -27,16 +31,19 @@ Track medicine stock and availability
 
 Oversee overall system operations
 
+<br>
 📊 Reports & Records
 
 Generate, view, and manage patient reports
 
 Update laboratory and pharmacy information
 
+<br>
 👤 Profile Management
 
 Doctors and staff can update their own profiles
 
+<br>
 🚀 Tech Stack
 
 Backend: PHP
@@ -45,6 +52,7 @@ Database: MySQL
 
 Server: XAMPP / Apache
 
+<br>
 🔑 Login Credentials
 Admin
 
@@ -57,7 +65,7 @@ Doctor
 ID: YDS7L
 
 Password: (enter assigned password)
-
+<br>
 📂 Project Structure
 Hospital-Management-System/
 │── backend/
@@ -68,6 +76,7 @@ Hospital-Management-System/
 │── database/          # SQL dump (if available)
 │── index.php          # Entry point
 
+<br>
 ⚙️ Installation Guide
 
 Clone the repository:
@@ -99,6 +108,7 @@ Open the project in your browser:
 
 http://localhost/HMS
 
+<br>
 📸 Screenshots (Optional)
 
 <img width="1365" height="736" alt="Screenshot 2025-09-15 124544" src="https://github.com/user-attachments/assets/2746aa1c-9b6a-4223-bd86-adc08b183378" />
@@ -127,6 +137,8 @@ Commit changes
 
 Push and open a Pull Request
 
+<br>
 📜 License
 
 This project is open-source and available under the MIT License.
+
